@@ -1,4 +1,4 @@
-# African Language Parallel Sentence Collection
+# African Language Parallel Sentences Collection
 
 This dataset collection includes sentence pairs for African languages along with similarity scores. It can be used for machine translation, sentence alignment, or other natural language processing tasks. This dataset is based on the NLLBv1 dataset, published on OPUS under an open-source initiative led by META. You can find more information here: [OPUS - NLLB-v1](https://opus.nlpl.eu/legacy/NLLB-v1.php). Below is a table listing the language pairs and their counts:
 
